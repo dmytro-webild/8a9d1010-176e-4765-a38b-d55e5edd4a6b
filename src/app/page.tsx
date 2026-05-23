@@ -12,7 +12,7 @@ import NavbarLayoutFloatingOverlay from '@/components/navbar/NavbarLayoutFloatin
 import PricingCardNine from '@/components/sections/pricing/PricingCardNine';
 import SplitAbout from '@/components/sections/about/SplitAbout';
 import TestimonialCardSixteen from '@/components/sections/testimonial/TestimonialCardSixteen';
-import { BookOpen, Lightbulb, ShieldCheck, BarChart3, TrendingUp, Zap } from "lucide-react";
+import { BarChart3, TrendingUp, Zap } from "lucide-react";
 
 export default function LandingPage() {
   return (
@@ -22,11 +22,11 @@ export default function LandingPage() {
       borderRadius="soft"
       contentWidth="mediumLarge"
       sizing="mediumLargeSizeMediumTitles"
-      background="aurora"
-      cardStyle="outline"
-      primaryButtonStyle="flat"
-      secondaryButtonStyle="glass"
-      headingFontWeight="medium"
+      background="noise"
+      cardStyle="glass-elevated"
+      primaryButtonStyle="primary-glow"
+      secondaryButtonStyle="solid"
+      headingFontWeight="semibold"
     >
       <ReactLenis root>
         <div id="nav" data-section="nav">

@@ -71,7 +71,7 @@ export default function LandingPage() {
           href: "#pricing",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/trading-stock-stock-market-business-graph-trading-investment-broker-stock-exchange-market_169016-66723.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/trading-stock-stock-market-business-graph-trading-investment-broker-stock-exchange-market_169016-66723.jpg?_wi=1"
       showDimOverlay={true}
       avatars={[
         {
@@ -119,7 +119,7 @@ export default function LandingPage() {
           description: "Mentorship programs for serious traders.",
         },
       ]}
-      imageSrc="http://img.b2bpic.net/free-photo/startup-team-review-financial-reports-performance-metrics-laptop_482257-90887.jpg"
+      imageSrc="http://img.b2bpic.net/free-photo/startup-team-review-financial-reports-performance-metrics-laptop_482257-90887.jpg?_wi=1"
     />
   </div>
 
@@ -141,7 +141,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/menu-circle-button-right-side-with-white-background_187299-40075.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/trading-stock-stock-market-business-graph-trading-investment-broker-stock-exchange-market_169016-66723.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/trading-stock-stock-market-business-graph-trading-investment-broker-stock-exchange-market_169016-66723.jpg?_wi=2",
           imageAlt: "forex education icon gold",
         },
         {
@@ -156,7 +156,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/economic-crisis-bocks_23-2148542037.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/startup-team-review-financial-reports-performance-metrics-laptop_482257-90887.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/startup-team-review-financial-reports-performance-metrics-laptop_482257-90887.jpg?_wi=2",
           imageAlt: "forex education icon gold",
         },
         {
@@ -171,7 +171,7 @@ export default function LandingPage() {
               imageSrc: "http://img.b2bpic.net/free-photo/charts-finance-text-white-background_23-2148305954.jpg",
             },
           ],
-          imageSrc: "http://img.b2bpic.net/free-photo/hispanic-man-working-office-night-smiling-cheerful-showing-pointing-with-fingers-teeth-mouth-dental-health-concept_839833-28090.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/hispanic-man-working-office-night-smiling-cheerful-showing-pointing-with-fingers-teeth-mouth-dental-health-concept_839833-28090.jpg?_wi=1",
           imageAlt: "forex education icon gold",
         },
       ]}
@@ -279,7 +279,7 @@ export default function LandingPage() {
           role: "Full-time Trader",
           company: "Student",
           rating: 5,
-          imageSrc: "http://img.b2bpic.net/free-photo/hispanic-man-working-office-night-smiling-cheerful-showing-pointing-with-fingers-teeth-mouth-dental-health-concept_839833-28090.jpg",
+          imageSrc: "http://img.b2bpic.net/free-photo/hispanic-man-working-office-night-smiling-cheerful-showing-pointing-with-fingers-teeth-mouth-dental-health-concept_839833-28090.jpg?_wi=2",
         },
         {
           id: "t2",
